@@ -4,7 +4,6 @@
 
 The project runs as a multi-tier Python application with microservices executing in background threads inside a **Google Colab** environment, exposing a public UI through Gradio.
 
----
 
 ## 💡 Project Concept & Features
 
@@ -22,7 +21,6 @@ Tomadoc AI combines machine learning, natural language processing, and IoT data 
 4. **🏆 Garden Dashboard**
    - A gamification layer containing points, grower levels (e.g., *Apprentice Grower*), stats, and daily tasks that dynamically update as users complete scans and resolve IoT warnings.
 
----
 
 ## 🛠 Technology Stack
 
